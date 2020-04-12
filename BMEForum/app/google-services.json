@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "514883006500",
+    "firebase_url": "https://bmeforumqbv1mo.firebaseio.com",
+    "project_id": "bmeforumqbv1mo",
+    "storage_bucket": "bmeforumqbv1mo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514883006500:android:ea381e95213b940748e8b1",
+        "android_client_info": {
+          "package_name": "hu.bme.aut.android.bmeforumQBV1MO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514883006500-kambom9qhsp9ogqd23hl4jm6bhib2vqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.bme.aut.android.bmeforumQBV1MO",
+            "certificate_hash": "91d07751094dae79a7325e9d964165cd79c1fa8d"
+          }
+        },
+        {
+          "client_id": "514883006500-rrkg2gq02ch87s2g6rh9jjecafe3ik51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQU8LsSy-g-UhWvOgEj8LnWVhGWRHOww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514883006500-rrkg2gq02ch87s2g6rh9jjecafe3ik51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
