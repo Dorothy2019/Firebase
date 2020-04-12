@@ -1,5 +1,11 @@
 package hu.bme.aut.android.bmeforumQBV1MO
 
+import android.app.ProgressDialog
+import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
+import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.auth.FirebaseUser
+
 abstract class BaseActivity : AppCompatActivity() {
 
     private var progressDialog: ProgressDialog? = null
